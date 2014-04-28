@@ -19,7 +19,7 @@
     "plugins",
     "tests",
     "tmp",
-    "LEGALNOTICE"
+    "LEGALNOTICE",
     "composer.json",
     "composer.lock",
     "console",
