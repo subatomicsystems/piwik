@@ -1,0 +1,29 @@
+{
+  "name": "piwik",
+  "version": "0.1.0",
+  "main": "piwik.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:subatomicsystems/piwik.git"
+  },
+  "private": true,
+  "verbose": true,
+  "ignore": [
+    "**/.*",
+    "config",
+    "core",
+    "js",
+    "lang",
+    "libs",
+    "misc",
+    "plugins",
+    "tests",
+    "tmp",
+    "LEGALNOTICE"
+    "composer.json",
+    "composer.lock",
+    "console",
+    "index.php",
+    "piwik.php"
+  ]
+}
